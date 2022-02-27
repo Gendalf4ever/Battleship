@@ -1,0 +1,15 @@
+/Users/master/Desktop/BattleShip/Battleship/Battleship/bin/Debug/net5.0/Battleship.deps.json
+/Users/master/Desktop/BattleShip/Battleship/Battleship/bin/Debug/net5.0/Battleship.runtimeconfig.json
+/Users/master/Desktop/BattleShip/Battleship/Battleship/bin/Debug/net5.0/Battleship.runtimeconfig.dev.json
+/Users/master/Desktop/BattleShip/Battleship/Battleship/bin/Debug/net5.0/Battleship.dll
+/Users/master/Desktop/BattleShip/Battleship/Battleship/bin/Debug/net5.0/ref/Battleship.dll
+/Users/master/Desktop/BattleShip/Battleship/Battleship/bin/Debug/net5.0/Battleship.pdb
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/Battleship.csproj.AssemblyReference.cache
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/Battleship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/Battleship.AssemblyInfoInputs.cache
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/Battleship.AssemblyInfo.cs
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/Battleship.csproj.CoreCompileInputs.cache
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/Battleship.dll
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/ref/Battleship.dll
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/Battleship.pdb
+/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/Debug/net5.0/Battleship.genruntimeconfig.cache
