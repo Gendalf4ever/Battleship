@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h5foX9ZNPaAXYoid7riFokHUfkaCsEflVyPBe/e+oblwG2Ah3swtPiPJZsG61fkN4huoyFz+qruzZi1mR6wq2A==",
+  "dgSpecHash": "nEoVcD8cx2IfeZYImm+P3Zt4PAvx4YBjvCvLm4MIwp9D9dA3kXvFZmTM1Zypl1SqB1kC9129rjKoTvU0xDA0eg==",
   "success": true,
-  "projectFilePath": "/Users/master/Desktop/BattleShip/Battleship/Battleship/Battleship.csproj",
+  "projectFilePath": "D:\\EducationProjects\\Battleship\\Battleship.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
