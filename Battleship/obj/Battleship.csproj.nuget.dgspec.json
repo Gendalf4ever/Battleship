@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/master/Desktop/BattleShip/Battleship/Battleship/Battleship.csproj": {}
+    "D:\\EducationProjects\\Battleship\\Battleship.csproj": {}
   },
   "projects": {
-    "/Users/master/Desktop/BattleShip/Battleship/Battleship/Battleship.csproj": {
+    "D:\\EducationProjects\\Battleship\\Battleship.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/master/Desktop/BattleShip/Battleship/Battleship/Battleship.csproj",
+        "projectUniqueName": "D:\\EducationProjects\\Battleship\\Battleship.csproj",
         "projectName": "Battleship",
-        "projectPath": "/Users/master/Desktop/BattleShip/Battleship/Battleship/Battleship.csproj",
-        "packagesPath": "/Users/master/.nuget/packages/",
-        "outputPath": "/Users/master/Desktop/BattleShip/Battleship/Battleship/obj/",
+        "projectPath": "D:\\EducationProjects\\Battleship\\Battleship.csproj",
+        "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
+        "outputPath": "D:\\EducationProjects\\Battleship\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/master/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Антон\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
